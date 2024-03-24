@@ -1,0 +1,56 @@
+[
+  {
+    "id": 0,
+    "author": "Vernor Vinge",
+    "language": "English",
+    "title": "A Fire Upon the Deep"
+  },
+  {
+    "id": 1,
+    "author": "Frank Herbert",
+    "language": "English",
+    "title": "Dune"
+  },
+  {
+    "id": 2,
+    "author": "Isaac Asimov",
+    "language": "English",
+    "title": "Foundation"
+  },
+  {
+    "id": 3,
+    "author": "H. G. Wells",
+    "language": "English",
+    "title": "The War of the Worlds"
+  },
+  {
+    "id": 4,
+    "author": "Leigh Brackett",
+    "language": "English",
+    "title": "The Long Tomorrow"
+  },
+  {
+    "id": 5,
+    "author": "Robert A. Heinlein",
+    "language": "English",
+    "title": "Stranger in a Strange Land"
+  },
+  {
+    "id": 6,
+    "author": "H. P. Lovecraft",
+    "language": "English",
+    "title": "The Call of Cthulhu"
+  },
+  {
+    "id": 7,
+    "author": "George Orwell",
+    "language": "English",
+    "title": "1984"
+  },
+  {
+    "id": 8,
+    "author": "Philip K. Dick",
+    "language": "English",
+    "title": "Do Androids Dream of Electric Sheep?"
+  }
+]
